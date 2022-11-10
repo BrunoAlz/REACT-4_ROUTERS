@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jaleco",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price": "R$ 999,99"
+    },
+    {
+      "id": 2,
+      "name": "Avental",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price": "R$ 999,99"
+    },
+    {
+      "id": 3,
+      "name": "Touca",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price": "R$ 999,99"
+    },
+    {
+      "id": 4,
+      "name": "Fronha",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price": "R$ 999,99"
+    },
+    {
+      "id": 5,
+      "name": "Embalagem",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price": "R$ 999,99"
+    },
+    {
+      "id": 6,
+      "name": "Porta talher",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price": "R$ 999,99"
+    },
+    {
+      "id": 7,
+      "name": "Porta absorvente",
+      "description": "Jaleco de alta qualidade fabricado para atender aos clientes mais exigentes",
+      "price": "R$ 999,99"
+    },
+    {
+      "name": "ELFBAR - Lemom Min",
+      "price": "119.99",
+      "description": "PENDRIVE PARA FUMAR TOP",
+      "id": 8
+    },
+    {
+      "name": "ELFBAR - PEACH JUICE",
+      "price": "119.99",
+      "description": "TOPP DEMAIS VERMEIO",
+      "id": 9
+    },
+    {
+      "name": "ELFBAR - PEACH JUICE",
+      "price": "119.99",
+      "description": "TOPP DEMAIS VERMEIO",
+      "id": 10
+    },
+    {
+      "name": "ELFBAR - Watermelon lemon ic",
+      "price": "123.87",
+      "description": "SINISTRASSOOO",
+      "id": 11
+    },
+    {
+      "name": "Bruno Alves de Almeida",
+      "price": "2",
+      "description": "3",
+      "id": 12
+    },
+    {
+      "name": "ELFBAR - Lemom Min21d12",
+      "price": "23",
+      "description": "3",
+      "id": 13
+    }
+  ]
+}
